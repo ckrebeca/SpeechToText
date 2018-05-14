@@ -1,0 +1,86 @@
+h1{
+    border-bottom: 3px solid red;
+    border-top: 3px solid red;
+	background-color: black;
+	text-align: center;
+	font-family: Avengeance;
+	font-size: 80px;
+	padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    padding-left: 80px;
+	color:#D91E18;
+}
+h11{
+	color:rgba(31, 28, 28, 0.00);
+}
+h3{
+	font-family:BankGothic Lt BT;
+	color:black;
+	font-size:20px;
+}
+img{
+	width:300px;
+	height:150px;
+}
+.row{
+	text-align:center;
+}
+li{
+	color:black;
+}
+h2{
+    border-bottom: 3px solid red;
+    border-top: 3px solid red;
+	background-color: black;
+	text-align: center;
+	font-family: Avengeance;
+	font-size: 80px;
+	padding-top: 40px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    padding-left: 80px;
+	color:red;
+}
+.submit{
+	text-align:center;
+
+}
+.register{
+	text-align:center;
+}
+  .modal-header, h4, .close {
+      background-color: #D91E18;
+      color:white !important;
+      text-align: center;
+      font-size: 30px;
+  }
+  .modal-footer {
+      background-color: #D91E18;
+  }
+p{
+	  font-family:BankGothic Lt BT;
+	  font-size:20;
+	  text-align:center;
+}
+
+.StockImages {
+    width: 230px;
+}
+
+body {
+	position: relative; 
+}
+.affix {
+	top:0;
+	width: 100%;
+	z-index: 9999 !important;
+}
+.navbar {
+	margin-bottom: 0px;
+}
+
+.affix ~ .container-fluid {
+   position: relative;
+   top: 50px;
+}
