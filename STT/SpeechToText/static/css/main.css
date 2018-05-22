@@ -1,0 +1,11 @@
+            #result{
+                border: 2px solid black;
+                height: 200px;
+                border-radius: 3px;
+                font-size: 14px;
+            }
+            button{
+                position: absolute;
+                top: 240px;
+                left: 50%;
+            }
