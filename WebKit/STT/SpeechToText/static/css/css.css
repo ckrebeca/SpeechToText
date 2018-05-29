@@ -1,0 +1,13 @@
+            #result{
+                border: 5px solid red;
+                height: 200px;
+                width: 200px;
+                border-radius: 3px;
+                font-size: 14px;
+                color: red;
+            }
+            button{
+                position: absolute;
+                top: 240px;
+                left: 50%;
+            }
